@@ -7,7 +7,7 @@
 ---
 ## 🌟 About Me
 
-A **motivated data scientist** with a Bachelor's in Communications and Electronics Engineering, currently pursuing a Master's in Autonomy Technologies at Friedrich-Alexander-Universität. I’m passionate about using AI to tackle complex challenges and uncover insights that drive impactful decisions. My goal is to develop AI-driven solutions that contribute to technological advancements in autonomy.
+A **motivated data scientist** with a Bachelor's in Communications and Electronics Engineering, currently pursuing a Master's in Autonomy Technologies at Friedrich-Alexander-Universität. I’m passionate about using AI to tackle complex challenges and uncover insights that drive impactful decisions. I aim to develop AI-driven solutions that contribute to technological advancements in autonomy.
 
 ---
 
