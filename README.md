@@ -76,7 +76,6 @@ A **motivated data scientist** with a Bachelor's in Communications and Electroni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-hikal-0097221b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hekaalll)
 
----
 
 ## 🌍 Languages
 
