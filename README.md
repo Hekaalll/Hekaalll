@@ -5,6 +5,7 @@
 <h1 align="center">👋 Moustafa Hikal</h1>
 
 ---
+
 ## 🌟 About Me
 
 A **motivated data scientist** with a Bachelor's in Communications and Electronics Engineering, currently pursuing a Master's in Autonomy Technologies at Friedrich-Alexander-Universität. I’m passionate about using AI to tackle complex challenges and uncover insights that drive impactful decisions. I aim to develop AI-driven solutions that contribute to technological advancements in autonomy.
@@ -58,6 +59,7 @@ A **motivated data scientist** with a Bachelor's in Communications and Electroni
   ![Network Security](https://img.shields.io/badge/-Network%20Security-0078D4?style=flat&logo=security&logoColor=white) 
   ![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-FF6F00?style=flat&logo=cybersecurity&logoColor=white) 
   ![CCNA](https://img.shields.io/badge/-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
+  
 ---
 
 ## 🚀 Projects
@@ -76,6 +78,7 @@ A **motivated data scientist** with a Bachelor's in Communications and Electroni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-hikal-0097221b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hekaalll)
 
+---
 
 ## 🌍 Languages
 
