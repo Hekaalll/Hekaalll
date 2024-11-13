@@ -83,4 +83,3 @@ A **motivated data scientist** with a Bachelor's in Communications and Electroni
 ![English](https://img.shields.io/badge/English-Advanced-007ACC?style=flat)
 ![Arabic](https://img.shields.io/badge/Arabic-Mother%20Language-FF5733?style=flat)
 
----
